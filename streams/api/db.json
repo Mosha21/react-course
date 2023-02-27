@@ -1,21 +1,15 @@
 {
   "streams": [
     {
-      "title": "test",
-      "description": "test stream",
-      "id": 1
+      "title": "Warzone 2.0",
+      "description": "Warzone games live new season!",
+      "id": 5
     },
     {
-      "title": "I created this stream",
-      "description": "This was made by me",
+      "title": "wefwefewfwef",
+      "description": "werethrtwhrtwhtfrh",
       "userId": "109152470164972448354",
-      "id": 2
-    },
-    {
-      "title": "I created this stream",
-      "description": "This was made by me",
-      "userId": "109152470164972448354",
-      "id": 3
+      "id": 6
     }
   ]
 }
